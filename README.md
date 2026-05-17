@@ -1,4 +1,3 @@
-```md id="ghp91x"
 <h1 align="center">Naitik Rathore</h1>
 
 <p align="center">
